@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3b2386e6_8b8c1a39",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2023-07-03T03:52:25Z",
+      "side": 1,
+      "message": "this is a no-merge cause the gamma values are really off with very little chance of fixing it up",
+      "revId": "2def9565330c8f587b0e6f776c24eacb01f9d8de",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    }
+  ]
+}
